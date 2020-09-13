@@ -4,7 +4,7 @@
 
 :smiley: Vice-President of **[Innovision,SMIT](https://innovision.cf/)** 
 
-👨‍🎓 Persuing B.Tech in Computer Science from the **[Sikkim Manipal](https://smu.edu.in/smit.html/)** 
+👨‍🎓 Persuing B.Tech in Computer Science from the **[Sikkim Manipal Institiute of Technology](https://smu.edu.in/smit.html/)** 
 
 ### About me :eyes:
 
