@@ -8,16 +8,20 @@
 
 ### About me :eyes:
 
-- :dart: Full stack Web Development |  Pyhton Automation | Competitive Proogramming
+- :dart: Currently interested in : Full stack Web Developement |  Pyhton Automation | Competitive Proogramming
 - :writing_hand: Writing blogs on  **[Medium](https://medium.com/@)**
 - :e-mail: Ask me about anything ; **[yumangr@gmail.com](yumangr@gmail.com)**
 
 - 🔭 I’m currently working on Automated Certificate Generator and Mailer
-- 📚 What do I believe? One thing at a time.
+- 📚 What do I believe in? Debugging life,bits and bytes.
 - 🌱 I’m currently learning to manage my time, and be productive.
 - ⚡ Fun fact: I love Cats 🐱
 
-![Yumn's github stats](https://github-readme-stats.vercel.app/api?username=YuZaGa&show_icons=true&hide_border=true)
+<img align="left" alt="AryanFelix's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=YuZaGa&show_icons=true&hide_border=true&theme=dracula" />
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuZaGa)](https://github.com/YuZaGa)
+
 
 ### Languages and Tools :computer:
 
