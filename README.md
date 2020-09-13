@@ -8,7 +8,7 @@
 
 ### About me :eyes:
 
-- :dart: Full stack Web Development |  
+- :dart: Full stack Web Development |  Pyhton Automation | Competitive Proogramming
 - :writing_hand: Writing blogs on  **[Medium](https://medium.com/@)**
 - :e-mail: Ask me about anything ; **[yumangr@gmail.com](yumangr@gmail.com)**
 
