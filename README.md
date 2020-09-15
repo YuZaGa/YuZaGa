@@ -8,11 +8,11 @@
 
 ### About me :eyes:
 
-- :dart: Currently interested in : Full stack Web Developement |  Pyhton Automation | Competitive Proogramming
+- :dart: Currently interested in : Full stack Web Developement |  Pyhton Automation | Competitive Programming
 - :writing_hand: Writing blogs on  **[Medium](https://medium.com/@)**
 - :e-mail: Ask me about anything ; **[yumangr@gmail.com](yumangr@gmail.com)**
 
-- 🔭 I’m currently working on Automated Certificate Generator and Mailer
+- 🔭 I’m currently working on Automated Certificate Generator and Mailer(GUI) using Tkinter
 - 📚 What do I believe in? Debugging life,bits and bytes.
 - 🌱 I’m currently learning to manage my time, and be productive.
 - ⚡ Fun fact: I love Cats 🐱
