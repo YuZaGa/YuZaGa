@@ -17,10 +17,17 @@
 - 🌱 I’m currently learning to manage my time, and be productive.
 - ⚡ Fun fact: I love Cats 🐱
 
-<img align="left" alt="AryanFelix's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=YuZaGa&show_icons=true&hide_border=true&theme=dracula" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuZaGa)](https://github.com/YuZaGa)
+[![Yumn's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuZaGa)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuZaGa&layout=compact" />
+
+
+
+
+
+
+
 
 
 ### Languages and Tools :computer:
