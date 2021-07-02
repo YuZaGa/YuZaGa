@@ -8,26 +8,18 @@
 
 ### About me :eyes:
 
-- :dart: Currently interested in : Full stack Web Developement |  Pyhton Automation | Competitive Programming
+- :dart: Currently interested in : Django Developement |  Pyhton Automation | Competitive Programming
 - :writing_hand: Writing blogs on  **[Medium](https://medium.com/@)**
 - :e-mail: Ask me about anything ; **[yumangr@gmail.com](yumangr@gmail.com)**
 
-- 🔭 I’m currently working on a an e-learning platform as part of my Mini Project. 
+- 🔭 I’m currently working on a a Hostel Management System. 
 - 📚 What do I believe in? Debugging life,bits and bytes.
 - 🌱 I’m currently learning to manage my time, and be productive.
 - ⚡ Fun fact: I love Cats 🐱
 
 
-
-![Yumn's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuZaGa)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuZaGa&layout=compact" />
-
-
-
-
-
-
-
+![Yumn's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuZaGa&layout=compact)
+![Yumn's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YuZaGa&layout=compact)
 
 
 ### Languages and Tools :computer:
