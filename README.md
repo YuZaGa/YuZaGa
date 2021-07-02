@@ -23,7 +23,7 @@
 ---
 <img align="left" alt="Yumn's GitHub Stats" src="https://github-readme-stats-ten-roan.vercel.app/api?username=YuZaGa&show_icons=true&theme=vue&hide_border=false" />
 
-<img align="left" alt="Top Languages" src="https://github-readme-stats-ten-roan.vercel.app/api/top-langs/?username=YuZaGa&layout=compact" />
+<img align="center" alt="Top Languages" src="https://github-readme-stats-ten-roan.vercel.app/api/top-langs/?username=YuZaGa&layout=compact" />
 
 
 ---
