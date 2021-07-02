@@ -18,9 +18,15 @@
 - ⚡ Fun fact: I love Cats 🐱
 
 
-![Yumn's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuZaGa&layout=compact)
-![Yumn's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YuZaGa&layout=compact)
+<br />
 
+---
+<img align="left" alt="Yumn's GitHub Stats" src="https://github-readme-stats-ten-roan.vercel.app/api?username=YuZaGa&show_icons=true&theme=vue&hide_border=false" />
+
+
+[![Top Langs](https://github-readme-stats-ten-roan.vercel.app/api/top-langs/?username=YuZaGa&layout=compact)](https://github.com/YuZaGa/github-readme-stats)
+
+---
 
 ### Languages and Tools :computer:
 
@@ -33,12 +39,18 @@
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/hritik5102) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hritik5102) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)
-### Reach out to me 👓
 
 
- <br><a href="https://linkedin.com/in/yumn-gauhar">
-  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-</a>
-<a href="https://www.instagram.com/retarded_potential/">
-  <img align="left" alt="In" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
-</a>                                                                                |
+---
+
+### Connect with me:
+[![Linkedin Badge](https://img.shields.io/badge/-Yumn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin] [![Mail Badge](https://img.shields.io/badge/-@retarded_potential-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)][instagram]
+<br />
+<br />
+
+
+
+<!--Links -->
+[instagram]: https://www.instagram.com/retarded_potential/
+[linkedin]: https://linkedin.com/in/yumn-gauhar
+[github]: https://github.com/YuZaGa/
