@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Yumn Gauhar](https://yumngauhar.live/) 👨‍💻
+### Hey 👋, I'm [Yumn Gauhar](https://yumngauhar.ml/) 👨‍💻
 
 
 
