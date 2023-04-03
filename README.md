@@ -26,7 +26,7 @@
   <img align="center" alt="Yumn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YuZaGa&show_icons=true&theme=transparent&hide_border=false" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuZaGa&layout=compact&langs_count=8&card_width=400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuZaGa&layout=compact&langs_count=8" />
 </a>
 
 ---
