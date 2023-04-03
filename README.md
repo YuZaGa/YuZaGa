@@ -12,7 +12,7 @@
 - :writing_hand: Writing blogs on  **[Medium](https://medium.com/@)**
 - :e-mail: Ask me about anything ; **[yumangr@gmail.com](yumangr@gmail.com)**
 
-- 🔭 I’m currently working on a Anniversary Reminder App. 
+- 🔭 I’m currently working on a an Anniversary Reminder App. 
 - 📚 What do I believe in? Debugging life,bits and bytes.
 - 🌱 I’m currently learning to manage my time, and be productive.
 - ⚡ Fun fact: I love Cats 🐱
@@ -21,11 +21,12 @@
 <br />
 
 ---
-
-
-<img align="center" alt="Yumn's GitHub Stats" src="https://github-readme-stats-ten-roan.vercel.app/api?username=YuZaGa&show_icons=true&theme=vue&hide_border=false" />
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuZaGa&repo=github-readme-stats&show_icons=true&theme=vue&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" alt="Yumn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YuZaGa&show_icons=true&theme=transparent&hide_border=false" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuZaGa&layout=compact&langs_count=8&card_width=400" />
+</a>
 
 ---
 
