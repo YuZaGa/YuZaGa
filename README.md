@@ -1,18 +1,18 @@
 ### Hey 👋, I'm [Yumn Gauhar](https://yumngauhar.ml/) 👨‍💻
 
 
-
+👨‍🎓 ASE at **[OneAdvanced]([https://smu.edu.in/smit.html/](https://www.oneadvanced.com/))** 
 :smiley: Former Vice-President of **[Innovision,SMIT](https://innovision.cf/)** 
 
-👨‍🎓 Persuing B.Tech in Computer Science from the **[Sikkim Manipal Institiute of Technology](https://smu.edu.in/smit.html/)** 
+👨‍🎓 B.Tech in Computer Science from the **[Sikkim Manipal Institiute of Technology](https://smu.edu.in/smit.html/)** 
 
 ### About me :eyes:
 
-- :dart: Currently interested in : Django Developement |  Pyhton Automation | Competitive Programming
+- :dart: Currently interested in : Django Developement |  Pyhton Automation | Publishing Apps using Flutter
 - :writing_hand: Writing blogs on  **[Medium](https://medium.com/@)**
 - :e-mail: Ask me about anything ; **[yumangr@gmail.com](yumangr@gmail.com)**
 
-- 🔭 I’m currently working on a a Hostel Management System. 
+- 🔭 I’m currently working on a Anniversary Reminder App. 
 - 📚 What do I believe in? Debugging life,bits and bytes.
 - 🌱 I’m currently learning to manage my time, and be productive.
 - ⚡ Fun fact: I love Cats 🐱
@@ -25,7 +25,7 @@
 
 <img align="center" alt="Yumn's GitHub Stats" src="https://github-readme-stats-ten-roan.vercel.app/api?username=YuZaGa&show_icons=true&theme=vue&hide_border=false" />
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuZaGa&repo=github-readme-stats&show_icons=true&theme=vue&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
