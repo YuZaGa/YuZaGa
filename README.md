@@ -2,6 +2,7 @@
 
 
 👨‍🎓 ASE at **[OneAdvanced]([https://smu.edu.in/smit.html/](https://www.oneadvanced.com/))** 
+
 :smiley: Former Vice-President of **[Innovision,SMIT](https://innovision.cf/)** 
 
 👨‍🎓 B.Tech in Computer Science from the **[Sikkim Manipal Institiute of Technology](https://smu.edu.in/smit.html/)** 
