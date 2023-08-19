@@ -1,19 +1,19 @@
-### Hey 👋, I'm [Yumn Gauhar](https://yumngauhar.ml/) 👨‍💻
+### Hey 👋, I'm [Yumn Gauhar](#) 👨‍💻
 
 
 👨‍🎓 ASE at **[OneAdvanced]([https://smu.edu.in/smit.html/](https://www.oneadvanced.com/))** 
 
-:smiley: Former Vice-President of **[Innovision,SMIT](https://innovision.cf/)** 
+:smiley: Former Vice-President of **[Innovision, SMIT](#)** 
 
 👨‍🎓 B.Tech in Computer Science from the **[Sikkim Manipal Institiute of Technology](https://smu.edu.in/smit.html/)** 
 
 ### About me :eyes:
 
-- :dart: Currently interested in : Django Developement |  Pyhton Automation | Publishing Apps using Flutter
+- :dart: Currently interested in : Django | Publishing Apps using Flutter
 - :writing_hand: Writing blogs on  **[Medium](https://medium.com/@)**
 - :e-mail: Ask me about anything ; **[yumangr@gmail.com](yumangr@gmail.com)**
 
-- 🔭 I’m currently working on a an Anniversary Reminder App. 
+- 🔭 I’m currently working on a Habit App. 
 - 📚 What do I believe in? Debugging life,bits and bytes.
 - 🌱 I’m currently learning to manage my time, and be productive.
 - ⚡ Fun fact: I love Cats 🐱
