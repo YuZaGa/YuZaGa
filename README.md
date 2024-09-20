@@ -1,60 +1,59 @@
-### Hey 👋, I'm [Yumn Gauhar](#) 👨‍💻
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yumn+Gauhar!;" />
+</h1>
+
+<h3 align="center">A Software Engineer at OneAdvanced </h3>
 
 
-👨‍🎓 ASE at **[OneAdvanced]([https://smu.edu.in/smit.html/](https://www.oneadvanced.com/))** 
 
-:smiley: Former Vice-President of **[Innovision, SMIT](#)** 
+<div align="center">
+ 
+  :dart: Currently interested in : Next.js | LLM's <br><br>
+  :writing_hand: Writing blogs on my **[website](https://yumngauhar.fyi)** <br><br>
 
-👨‍🎓 B.Tech in Computer Science from the **[Sikkim Manipal Institiute of Technology](https://smu.edu.in/smit.html/)** 
 
-### About me :eyes:
+  🔭 I’m working on an AI based SASS in my free time<br><br>
+  📚 What do I believe in? Debugging life,bits and bytes. <br><br>
+  ⚡ Fun fact: I love Cats 🐱
 
-- :dart: Currently interested in : Django | Publishing Apps using Flutter
-- :writing_hand: Writing blogs on  **[Medium](https://medium.com/@)**
-- :e-mail: Ask me about anything ; **[yumangr@gmail.com](yumangr@gmail.com)**
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:yumangr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/yumn-gauhar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://yumngauhar.fyi" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-- 🔭 I’m currently working on a Habit App. 
-- 📚 What do I believe in? Debugging life,bits and bytes.
-- 🌱 I’m currently learning to manage my time, and be productive.
-- ⚡ Fun fact: I love Cats 🐱
+---
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql,flask,flutter" /><br>
+</div>
 
 
 <br />
 
 ---
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" alt="Yumn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YuZaGa&show_icons=true&theme=transparent&hide_border=false" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuZaGa&layout=compact&langs_count=8" />
-</a>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=YuZaGa&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=YuZaGa&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=YuZaGa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
----
 
-
-### Languages and Tools :computer:
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/hritik5102) ![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&link=https://github.com/hritik5102)
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/hritik5102) ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102) 
-
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/hritik5102) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)
-
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hritik5102) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)
 
 
 ---
-
-### Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-Yumn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin] [![Mail Badge](https://img.shields.io/badge/-@retarded_potential-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)][instagram]
-<br />
-<br />
-
-
-
-<!--Links -->
-[instagram]: https://www.instagram.com/retarded_potential/
-[linkedin]: https://linkedin.com/in/yumn-gauhar
-[github]: https://github.com/YuZaGa/
